@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## My name is Meleyotan Oyeleke from Nigeria, I love coding so much.
+# I am Meleyotan Oyeleke. 
