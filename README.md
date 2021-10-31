@@ -23,6 +23,6 @@ Here are some ideas to get you started:
 Feel free to contact or reach me at:</p> 
 
 <ul style="display:flex">
-  <li><a href="http://twitter.com/MeleyotanO">Twitter</a><li>
-  <li><a href="http://linkedin.com/meleyotan%20oyeleke">LinkedIn</a><li>
+  <li><a href="http://twitter.com/MeleyotanO">Twitter</a></li>
+  <li><a href="http://linkedin.com/meleyotan%20oyeleke">LinkedIn</a></li>
 </ul>
