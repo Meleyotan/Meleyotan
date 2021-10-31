@@ -15,4 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi there 👋
+# Hi there! 👋
+<p> I am presently a graphic designer, UI/UX designer and a front-end developer. I have done awesome projects in all these fields since I started out on tech 2 years ago. Feel free to contact or reach me at:</p> 
+
+<ul>
+  <li>Twitter: @MeleyotanO
+</ul>
