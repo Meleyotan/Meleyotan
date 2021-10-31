@@ -16,8 +16,13 @@ Here are some ideas to get you started:
 -->
 
 # Hi there! 👋
-<p> I am presently a graphic designer, UI/UX designer and a front-end developer. I have done awesome projects in all these fields since I started out on tech 2 years ago. Feel free to contact or reach me at:</p> 
+<p> I am presently a graphic designer, UI/UX designer and a front-end developer. I have done awesome projects in all these fields since I started out on tech 2 years ago. 
+ I love coding and designing so much, I have being doing that easily back and forth. 
+ 
+  
+Feel free to contact or reach me at:</p> 
 
-<ul>
-  <li>Twitter: @MeleyotanO
+<ul style="display:flex">
+  <li><a href="http://twitter.com/MeleyotanO">Twitter</a><li>
+  <li><a href="http://linkedin.com/meleyotan%20oyeleke">LinkedIn</a><li>
 </ul>
