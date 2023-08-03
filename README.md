@@ -21,10 +21,11 @@ If I am not crafting designs and web experiences, I am analysing buildings and s
 
 - 🌱 I’m currently learning core JavaScript basics and its activities under the hood on FrontEnd Masters.
 
+  ⚡ You should see some of my designs here👉🏽<a href="https://behance.net/oyelekemeleyot>Behance</a></li>
+
 <ul style="display:flex">
   <li>📫 You want to reach me?<a href="http://twitter.com/MeleyotanO">Twitter</a></li>
   <li>💬 You want to ask me about something?<a href="http://linkedin.com/meleyotan%20oyeleke">LinkedIn</a></li>
-  <li>⚡ You want to see some of my designs?<a href="https://behance.net/oyelekemeleyot</a></li>
 </ul>
 
 
