@@ -23,8 +23,8 @@ If I am not crafting designs and web experiences, I am analysing buildings and s
 
 
 
-## See me!😄
-  ⚡ You should see some of my designs here👉🏽<a href="https://behance.net/oyelekemeleyot">Behance</a>
+## See me!
+  ⚡ You should see some of my designs 🔗 <a href="https://behance.net/oyelekemeleyot">Behance</a>
 
 
   
