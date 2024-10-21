@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 -->
 
 # Hi there! 👋
-<p> I have a knack for excellent design, human-fit and business-driving web experiences. I love and have worked on awesome projects interconnecting my acquired professional know-how on graphic design, product design and frontend engineering.
-If I am not crafting designs and web experiences, I am analysing buildings and strucutures, listening to music, playing my talking drum or enjoying myself improving.
+<p> I have a knack for excellent design, human-fit and business-driving web experiences and data analysis. I love and have worked on awesome projects interconnecting my acquired professional know-how on graphic design, product design, frontend engineering and data analysis.
+If I am not crafting designs and web experiences, I am analysing data, buildings and strucutures, listening to music, playing my talking drum or enjoying myself on one book.
 
-- 🌱 I’m currently learning core JavaScript basics and its activities under the hood on FrontEnd Masters.
+- 🌱 I’m currently revising Python Programming using the PY4E textbook by Prof. Charles Severance.
 
 - ⚡ You should see some of my designs 🔗 <a href="https://behance.net/oyelekemeleyot">Behance</a>
 <ul style="display:flex">
