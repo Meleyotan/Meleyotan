@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <p> I have a knack for excellent design, human-fit and business-driving web experiences, and statistical analysis. I love challenging projects and have worked on a few showcasing or interconnecting my expertise in graphic design, product design, frontend engineering, and data analysis.
 If I am not crafting designs and web experiences, I am analyzing data, buildings, and structures, listening to music, playing my talking drum, or enjoying myself on one book.
 
-- 🌱 I’m currently upskilling by building projects and learning more withbthe Meta Frontend, X-box Graphic Design and Google Data Analytics courses on Coursera.
+- 🌱 I’m currently upskilling by building projects and learning more with the Meta Frontend, X-box Graphic Design and Google Data Analytics courses on Coursera.
 
 - ⚡ You should see some of my designs 🔗 <a href="https://behance.net/oyelekemeleyot">Behance</a>
 
