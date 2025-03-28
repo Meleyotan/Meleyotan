@@ -25,6 +25,6 @@ If I am not crafting designs and web experiences, I am analyzing data, buildings
 
 - 📫 You want to reach me?<a href="http://twitter.com/MeleyotanO">Twitter</a>
   
-- 💬 You want to ask me about something?<a href="http://linkedin.com/meleyotan%20oyeleke">LinkedIn</a>
+- 💬 Oh! you professional, you want to ask me about something?<a href="http://linkedin.com/meleyotan%20oyeleke">LinkedIn</a>
 
 
